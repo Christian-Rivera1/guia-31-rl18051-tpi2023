@@ -1,0 +1,12 @@
+/* carnet-ejemplo1.css   SUCARNET  */
+fichero {background-color:blue;}
+ficha {background-color:red; display:block;} nombre {color:white; display:inline;} apellido {color:yellow; display:inline;}
+direccion {color:yellow; font-size:medium; display:inline;}
+carnet {color: greenyellow; font-size: medium; display: inline;}
+telefono {color:aqua; font-size: medium; display: inline;}
+email {color:blueviolet;}
+website {color: darkgreen;}
+dui {color: burlywood;}
+isss {color: chartreuse;}
+apf {color: cyan;}
+
